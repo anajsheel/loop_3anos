@@ -5,14 +5,18 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual o melhor time?");
+    var respostaTime = prompt("Quantas mundiais o palmeiras tem?");
+    var respostaTime = prompt("Santos está na serie A?")
+    var respostaTime = prompt("Em qual ano São Paulo tomou 6x1 contra o corinthians?")
 
-    
-    if (respostaTime.toLowerCase() === "athlético pr") {
-      alert("Isso mesmo! O Athlético PR é o melhor time!");
+   if (respostaTime.toLowerCase() === "athlético pr") {
+    if (respostaTime.toLowerCase() === "Série B") {
+      if (respostaTime.toLowerCase() === "2015"){
+        if (respostaTimet.toLowerCase() === "Neo quimica arena"){
+      alert("Isso mesmo! Continue assim.");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
-      alert("Não é isso! Tente novamente.");
+      alert("Incorreto! Tente novamente.");
     }
   }
 }
