@@ -14,6 +14,8 @@ h1 {color: rgb(0, 0, 0);
     animation: animacao-texto 5s infinite alternate;
 }
 
+body{background-color: blueviolet;}
+
 @keyframes animacao-texto {
     0% {
         transform: translateX(20px);
