@@ -5,6 +5,7 @@ h1 {color: rgb(0, 0, 0);
     font-size: 48px;
     font-weight: bold;
     color: #000;
+    background-color: blueviolet;
     text-align: center;
     position: absolute;
     top: 50%;
