@@ -9,7 +9,7 @@ function verificarTime() {
     var respostaTime = prompt("Santos está na serie A?")
     var respostaTime = prompt("Em qual ano São Paulo tomou 6x1 contra o corinthians?")
 
-   if (respostaTime.toLowerCase() === "athlético pr") {
+   if (respostaTime.toLowerCase() === "Nenhuma") {
     if (respostaTime.toLowerCase() === "Série B") {
       if (respostaTime.toLowerCase() === "2015"){
         if (respostaTimet.toLowerCase() === "Neo quimica arena"){
