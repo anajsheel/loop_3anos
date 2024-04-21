@@ -7,7 +7,7 @@ function verificarTime() {
     
     var respostaTime = prompt("Quantas mundiais o palmeiras tem?");
    
-   if (respostaTime.toLowerCase() === "Nenhuma") {
+   if (respostaTime.toLowerCase() === "nenhuma") {
     
       alert("Isso mesmo! Continue assim.");
       continuarPerguntando = false; // Sai do loop após a resposta correta
