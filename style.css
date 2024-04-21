@@ -21,8 +21,8 @@ h1{font-size: large;}
 h2 {font-size: large;}
 h1 {color: rgb(191, 11, 236);}
 h2 {color: rgb(28, 41, 216);}
-h1 {font-size: 30%;}
-h2 {font-size: 10%;}
+h1 {font-size: 5%;}
+h2 {font-size: 200%;}
 
 @keyframes animacao-texto {
     0% {
