@@ -21,6 +21,8 @@ h1{font-size: large;}
 h2 {font-size: large;}
 h1 {color: azure;}
 h2 {color: cyan;}
+h1 {font-size: 35%;}
+h2 {font-size: 45%;}
 @keyframes animacao-texto {
     0% {
         transform: translateX(20px);
