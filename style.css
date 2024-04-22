@@ -23,7 +23,10 @@ h1 {color: rgb(236, 26, 11);}
 h2 {color: rgb(28, 41, 216);}
 h1 {font-size: 180%;}
 h2 {font-size: 200%;}
-img-container {text-align: center;}
+IMG {display: block;
+margin: 0% auto;
+width: 700px;}
+
 @keyframes animacao-texto {
     0% {
         transform: translateX(20px);
