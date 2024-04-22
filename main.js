@@ -5,9 +5,9 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Quantas mundiais o palmeiras tem?");
+    var respostaTime = prompt("Quual nome da arena do Corinthians?");
    
-   if (respostaTime.toLowerCase() === "Nenhuma") {
+   if (respostaTime.toLowerCase() === "Neo quimica arena") {
     
       alert("Isso mesmo! Continue assim.");
       continuarPerguntando = false; // Sai do loop após a resposta correta
