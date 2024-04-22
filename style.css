@@ -1,6 +1,6 @@
 h1 {color: rgb(0, 0, 0);
-}
-#texto-animado {
+
+ 
     font-family: 'Arial', sans-serif;
     font-size: 48px;
     font-weight: bold;
@@ -11,10 +11,10 @@ h1 {color: rgb(0, 0, 0);
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    animation: animacao-texto 5s infinite alternate;
-}
+    animation: animacao-texto 5s infinite alternate; }
 
-body{background-color: blueviolet;}
+
+body{background-color: rgb(108, 139, 121);}
 h1 {text-align: center;}
 h2 {text-align: center;}
 h1{font-size: large;}
@@ -24,7 +24,7 @@ h2 {color: rgb(0, 0, 0);}
 h1 {font-size: 100%;}
 h2 {font-size: 90%;}
 IMG {display: block;
-margin: 0% auto;
+margin: 50% auto;
 width: 700px;}
 
 @keyframes animacao-texto {
