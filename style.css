@@ -8,11 +8,7 @@ h1 {color: rgb(0, 0, 0);}
 h2 {color: rgb(26, 1, 255);}
 h1 {font-size: 150%;}
 h2 {font-size: 120%;}
-img {
-    margin: auto;
-    display: block;
-  }
-
+img {margin-left: 100%;}
 
 @keyframes animacao-texto {
     0% {
