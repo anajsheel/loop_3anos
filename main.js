@@ -5,7 +5,7 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Quual nome da arena do Corinthians?");
+    var respostaTime = prompt("Qual nome da arena do Corinthians?");
    
    if (respostaTime.toLowerCase() === "Neo quimica arena") {
     
