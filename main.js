@@ -5,9 +5,9 @@ function verificarTime() {
 
   while (continuarPerguntando) {
     
-    var respostaTime = prompt("Qual nome da arena do Corinthians?");
+    var respostaTime = prompt("Quem é o melhor e mais chato professor?");
    
-   if (respostaTime.toLowerCase() === "Neo quimica arena") {
+   if (respostaTime.toLowerCase() === "miderson") {
     
       alert("Isso mesmo! Continue assim.");
       continuarPerguntando = false; // Sai do loop após a resposta correta
